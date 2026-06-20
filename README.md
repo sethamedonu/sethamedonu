@@ -33,7 +33,7 @@ I view the digital world in interconnected layers rather than isolated silos:
 * **Containers & Orchestration:** Docker, Kubernetes
 * **CI/CD & Collaboration:** Git, GitHub, DevOps Practices
 
-### 🌐 Enterprise Networking (CCNP Focus)
+### 🌐 Enterprise Networking
 * **Core Routing:** BGP, OSPF, MPLS, VRF, Route Redistribution, VPN Solutions
 * **Next-Gen Fabrics:** SD-Access, VXLAN, EVPN, Network Automation
 
